@@ -26,5 +26,5 @@ This implementation is based on these repositories:
 
 * Developing  SeNet50/ResNet101/RegNet400/RegNet800 for 100 epochs
 
-  `python train.py  --selfsup 1  --epochs 100  --model_choose 0/1/2/3`
+  `python train.py  --selfsup 0  --epochs 100  --model_choose 0/1/2/3`
 
